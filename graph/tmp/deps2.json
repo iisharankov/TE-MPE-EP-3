@@ -1,0 +1,9 @@
+{
+  "pkg0": ["pkg1", "pkg2", "pkg3"],
+  "pkg1": ["pkg2", "pkg3"],
+  "pkg2": ["pkg3"],
+  "pkg3": [],
+  "pkg5": ["pkg2", "pkg1"],
+  "pkg6": [],
+  "pkg7": ["pkg5", "pkg2", "pkg3"]
+}
